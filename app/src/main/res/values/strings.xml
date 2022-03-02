@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">weighcount</string>
+
+    <string-array name="school">
+        <item></item>
+        <item>Suzuran</item>
+        <item>Oxford</item>
+        <item>Petik</item>
+        <item>Hogward</item>
+    </string-array>
+</resources>
